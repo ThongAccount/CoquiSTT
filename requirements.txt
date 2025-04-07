@@ -1,3 +1,3 @@
 Flask
-coqui-stt
+git+https://github.com/coqui-ai/STT.git
 ffmpeg-python
