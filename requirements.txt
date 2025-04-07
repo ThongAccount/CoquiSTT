@@ -1,0 +1,3 @@
+Flask
+coqui-stt
+ffmpeg-python
